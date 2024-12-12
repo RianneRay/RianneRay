@@ -26,7 +26,7 @@ I work with a variety of tools and technologies, including:
 Feel free to reach out if you have any questions, want to collaborate, or need assistance with any projects! You can contact me through the following:
 
 - **Email**: [riannerayrelevo04.com](mailto:riannerayrelevo04.com)
-- **LinkedIn**: [https://www.linkedin.com/in/rianne-ray-relevo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/rianne-ray-relevo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [https://www.linkedin.com/in/rianne-ray-relevo](https://www.linkedin.com/in/rianne-ray-relevo)
 
 ## 🔑 Contributions
 
