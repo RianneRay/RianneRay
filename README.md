@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **No
 
 Here are some of the projects I've worked on:
 
-### 1. [Netflix Clone App](https://github.com/RayanRayX/Netflix_clone)
+### 1. [Netflix Clone App](https://github.com/RayanRayX/netflix-clone)
 A full-stack Netflix clone built using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to browse and view movies, with features for dynamic content rendering. It was developed to practice and enhance backend and frontend development skills, using Vite for faster development.
 
 ### 2. [Todo List](https://github.com/RayanRayX/Todolist)
