@@ -1,12 +1,16 @@
 # Rianne Ray Relevo
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in **Node.js**, **React**, **MongoDB**, and **Express**. I enjoy building full-stack applications, learning new technologies, and solving interesting challenges.
+# Welcome to my GitHub profile!
+
+I'm a passionate developer with a strong focus on **backend development** using **Node.js**, **Express**, **MongoDB**, and **Mongoose**. I enjoy building robust, scalable backend systems, optimizing performance, and solving complex challenges. My projects often involve creating efficient APIs, handling server-side logic, and integrating with databases to deliver seamless experiences.
+
+Feel free to explore my repositories and reach out if you have any questions!
 
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
 
-### 1. [Netflix Clone App](https://github.com/RayanRayX/netflix-clone)
+### 1. [Netflix Clone App](https://github.com/RianneRay/netflix-clone)
 A full-stack Netflix clone built using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to browse and view movies, with features for dynamic content rendering. It was developed to practice and enhance backend and frontend development skills, using Vite for faster development.
 
 ### 2. [Todo List](https://github.com/RayanRayX/Todolist)
