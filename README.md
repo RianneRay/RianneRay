@@ -6,11 +6,14 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **No
 
 Here are some of the projects I've worked on:
 
-### 1. [Blog_APP](https://github.com/RayanRayX/Blog_APP)
-A simple blog application built using the **MERN stack** (MongoDB, Express, React, Node.js). Users can create, view, and delete blog posts. The app features a basic user interface and RESTful routes.
+### 1. [Netflix Clone App](https://github.com/RayanRayX/Netflix_clone)
+A full-stack Netflix clone built using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to browse and view movies, with features for dynamic content rendering. It was developed to practice and enhance backend and frontend development skills, using Vite for faster development.
 
 ### 2. [Todo List](https://github.com/RayanRayX/Todolist)
 A task management application built with full javascript. It allows users to create, update, and delete tasks. This project demonstrates my ability to build front-end interactions.
+
+### 3. [Blog_APP](https://github.com/RayanRayX/Blog_APP)
+A simple blog application built using the **MERN stack** (MongoDB, Express, React, Node.js). Users can create, view, and delete blog posts. The app features a basic user interface and RESTful routes.
 
 ## 🔧 Technologies & Tools
 
