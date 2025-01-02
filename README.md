@@ -1,7 +1,5 @@
 # Rianne Ray Relevo
 
-# Welcome to my GitHub profile!
-
 I'm a passionate developer with a strong focus on **backend development** using **Node.js**, **Express**, **MongoDB**, and **Mongoose**. I enjoy building robust, scalable backend systems, optimizing performance, and solving complex challenges. My projects often involve creating efficient APIs, handling server-side logic, and integrating with databases to deliver seamless experiences.
 
 Feel free to explore my repositories and reach out if you have any questions!
